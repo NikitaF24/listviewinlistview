@@ -23,4 +23,6 @@ In this directory, you will find at least:
 
 <img width="868" alt="Capture d’écran 2022-05-10 à 15 16 48" src="https://user-images.githubusercontent.com/63092227/167641304-2a635ea2-b096-40b2-acf5-058aa6a27be8.png">
 
-6. Once this is done the code may be launched
+6. Click on "Files > Sync Project with Gradle Files"
+7. Finally, modify the file google-services.json with the firebase-url of your own database
+8. Once this is done the code may be launched
